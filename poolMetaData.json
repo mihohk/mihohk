@@ -4,3 +4,4 @@
 "ticker": "MPN",
 "homepage": "https://twitter.com/mihohk1224one"
 }
+$ curl -i http://git.io -F "url=https://raw.githubusercontent.com/mihohk/mihohk/main/poolMetaData.json" -F "code=mihohk"
