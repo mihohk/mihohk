@@ -1,7 +1,7 @@
 {
-"mihohk": "onepiece",
-"description": "My pool description",
+"name": "mihoの部屋",
+"description": "漫画のonepiece好きです",
 "ticker": "MPN",
 "homepage": "https://twitter.com/mihohk1224one"
 }
-$ curl -i http://git.io -F "url=https://raw.githubusercontent.com/mihohk/mihohk/main/poolMetaData.json" -F "code=mihohk"
+
